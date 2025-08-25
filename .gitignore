@@ -5,6 +5,7 @@
 !Fusion 360 2D Export.manifest
 !Fusion 360 2D Export.py
 !folder_browser.html
+!README.md
 
 __pycache__/
 *.py[cod]
