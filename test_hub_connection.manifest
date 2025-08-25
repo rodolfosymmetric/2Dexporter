@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Test Script",
+	"description":	{
+		"":	"Test script to troubleshoot hub connection and HTML palette communication"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
