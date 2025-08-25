@@ -1,14 +1,12 @@
 # Fusion 360 2D Export Add-in
 
-A specialized Fusion 360 add-in for bulk exporting 2D data (sketches and drawings) from all your designs with configurable file types and export formats.
+A specialized Fusion 360 add-in for bulk exporting 2D data (drawings) from all your designs with configurable file types and export formats.
 
 ## Features
 
 ### Configurable File Types
-- **Sketches**: Export all sketches from designs
 - **Drawings**: Export technical drawings
-- **Construction Planes**: Export construction geometry (planned)
-- **Work Features**: Export work points, axes, and planes (planned)
+ 
 
 ### Folder Selection
 - **Export All**: Process all folders in all projects (default behavior)
@@ -16,12 +14,9 @@ A specialized Fusion 360 add-in for bulk exporting 2D data (sketches and drawing
 - **Multi-Selection**: Select multiple folders across different projects
 
 ### Supported Export Formats
-- **DXF**: AutoCAD Drawing Exchange Format
-- **DWG**: AutoCAD Drawing Format (exports as DXF)
-- **PDF**: Portable Document Format (drawings only)
-- **SVG**: Scalable Vector Graphics (planned)
-- **PNG**: Portable Network Graphics (planned)
-- **JPEG**: Joint Photographic Experts Group (planned)
+- **DXF**: Drawing Exchange Format
+- **PDF**: Portable Document Format
+
 
 ## Installation
 

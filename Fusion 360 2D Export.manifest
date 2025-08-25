@@ -3,7 +3,7 @@
 	"type":	"script",
 	"author":	"Modified from Justin Nesselrotte's Total Exporter",
 	"description":	{
-		"":	"A specialized tool to export 2D data (sketches, drawings) from all your Fusion 360 designs with configurable file types and formats."
+		"":	"A specialized tool to export 2D data (drawings) from all your Fusion 360 designs with configurable file types and formats."
 	},
 	"supportedOS":	"windows|mac",
 	"editEnabled":	true
